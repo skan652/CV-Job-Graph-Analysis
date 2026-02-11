@@ -91,7 +91,7 @@ pip install pandas numpy networkx matplotlib seaborn scikit-learn sentence-trans
 1. **Option A - Local Setup**: Place all CSV files in a `data/` directory:
 
    ```text
-   graph/
+   CV-Job-Graph-Analysis/
    ├── cv-job-graph-analysis.ipynb
    ├── data/
    │   ├── Combined_Jobs_Final.csv
